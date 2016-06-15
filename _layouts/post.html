@@ -6,10 +6,13 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    {% if page.comments %} • <a href="http://mikeyny.github.io/{{ page.url }}#disqus_thread"> Comments</a>{% endif %}
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    <hr/>
+    {% include disqus.html %}
   </div>
 
 </article>

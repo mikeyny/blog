@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My very fisrt post !!!"
+comments: true
 date:   2016-06-13 21:13:03 +0200
 categories: jekyll update
 ---
