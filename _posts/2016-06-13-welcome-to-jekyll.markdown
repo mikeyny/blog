@@ -3,11 +3,18 @@ layout: post
 title:  "My very fisrt post !!!"
 comments: true
 date:   2016-06-13 21:13:03 +0200
+root: "../"
 categories: jekyll update
 ---
+{% include image.html
+            img="images/myimage.jpg"
+            title="title for image"
+            caption="caption for image" %}
 As the title implies this is my very first blog post , ever.I struggled on getting somthing to talk about ,so i thought i would introduce myself.
 
 My name is Michael Nyamande ,I'm a 20 year old techie living in Chiredzi ,Zimbabwe.
+
+![Image here]({{ post.root}}/assets/mymage.jpg)
 
 I love **programming** , so far i've learned .
 

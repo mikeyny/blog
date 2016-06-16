@@ -9,7 +9,14 @@
     // Positioning context for the mobile navigation icon
     position: relative;
 }
+.image-wrapper {
+    text-align: center;
 
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
 .site-title {
     font-size: 26px;
     font-weight: 300;
