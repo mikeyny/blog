@@ -114,7 +114,6 @@ events:
   - image: "/img/timeline/default.png"
     date: "June 2016 "
     description: "Set up this blog"
-<<<<<<< HEAD
   - image: "/img/timeline/college.jpg"
     date: "August 2015"
     description: "Started University"
