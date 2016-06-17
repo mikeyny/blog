@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/favicon.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/bg2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -111,16 +111,19 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "June 2016 - Today"
+  - image: "/img/timeline/default.png"
+    date: "June 2016 "
     description: "Set up this blog"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
+  - image: "/img/timeline/college.jpg"
+    date: "August 2015"
+    description: "Started University"
+  - image: "/img/timeline/coding.png"
+    date: "November 2012"
     description: "Started coding"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/start.jpg"
 
 ###########
 # Contact #
