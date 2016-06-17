@@ -87,7 +87,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-post-preview-words: 40
+post-preview-words: 30
 
 paginate: 5
 
@@ -120,11 +120,6 @@ events:
   - image: "/img/timeline/coding.png"
     date: "November 2012"
     description: "Started coding"
-=======
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "August 2015 - August 2019"
-    description: "Started University"
->>>>>>> fd3b7d536eb752ad0145f3f45ccdb69e9f04cb81
 
 # First image of the Timeline
 
