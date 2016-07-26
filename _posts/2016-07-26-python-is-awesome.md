@@ -4,7 +4,7 @@ section-type: post
 comments: true
 title:  "Why Python is so AWESOME"
 category: tech
-tags: [ 'blog' ]
+tags: [ 'python','programming' ]
 ---
 
 ![alt text](https://svn.python.org/www/branches/rest2web/beta.python.org/resources/design/logo/website-python-logo-vector.png)
