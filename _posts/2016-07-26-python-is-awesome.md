@@ -62,3 +62,13 @@ Among all its other strengths ,python is also a great scripting language. One ca
 2nd most demanded skill - (according to Angel list) 
 
 Highest average salary offered - (according to Angel list)
+
+***
+
+#### **DISCLAIMER**
+
+The above views are not mine alone but a collective curated view on why python is awesome. As such this article features sections from
+
+* <http://www.bestprogramminglanguagefor.me/why-learn-python>
+
+* <http://www.codingdojo.com/blog/what-programming-language-to-learn-first/>
