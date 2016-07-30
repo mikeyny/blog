@@ -7,7 +7,7 @@ permalink: /about/
  A cool by blog by Michael Nyamande.
 
  I'm a Firefox Student Ambassador ,tech junkuie ,asipiring developer,
- novice hacker ,Proud Zimbo and Christrian.
+ novice hacker ,Proud Zimbo and Christian.
 
  I'm currently studying towards by BSc Honours in Computer Science at the [Natioanl University of Science and Techonology](https://www.nust.ac.zw)
 
