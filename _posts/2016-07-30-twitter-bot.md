@@ -4,7 +4,7 @@ section-type: post
 comments: true
 title:  "How to start a movement using a twitter bot"
 category: tech
-tags: [ 'python','programming' ]
+tags: [ 'python','programming','bots','social media' ]
 ---
 ## BOTS ,BOTS ,BOTS
 
