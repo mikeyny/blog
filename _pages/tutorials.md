@@ -34,6 +34,7 @@ function getRandomAnimal() {
 
 console.log(meow());
 console.log(bark());
+console.log(hoofhoof());
 console.log(getRandomAnimal());
 {% endhighlight %}
 
