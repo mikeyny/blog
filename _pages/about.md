@@ -9,7 +9,7 @@ permalink: /about/
  I'm a Firefox Student Ambassador ,tech junkuie ,asipiring developer,
  novice hacker ,Proud Zimbo and Christian.
 
- I'm currently studying towards by BSc Honours in Computer Science at the [Natioanl University of Science and Techonology](https://www.nust.ac.zw)
+ I'm currently studying towards by BSc Honours in Computer Science at the [National University of Science and Techonology](https://www.nust.ac.zw)
 
 Check out my GitHub Projects:
 {% include icon-github.html username="mikeyny" %} 

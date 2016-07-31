@@ -124,7 +124,7 @@ for status in timeline:
 
 print("Finished. %d Tweets re tweeted, %d errors occurred." % (tweet_counter, error_counter))
 ```
-And thats it save, your code and run it ,and watch the magic.
+And thats it, save your code and run it ,and watch the magic.
 
 
 For a further advanced and more re-usable version of this code, checkout my repository [here](https://github.com/mikeyny/retweet-bot)
