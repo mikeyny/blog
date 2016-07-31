@@ -18,7 +18,7 @@ To all those a bit lost here, a bot is just software developed to automate tasks
 
 ![twitter bot image](http://justsimplyoutsourcingworldwide.com/wp-content/uploads/2013/08/robot-icon-twitter-featured.jpg)
 
-In this tutorial i will show you how to make a simple twitter bot using python that re-tweets everything on a certain topic on #hashtag.
+In this tutorial I will show you how to make a simple twitter bot using python that re-tweets everything on a certain topic on #hashtag.
 
 Hmmmm ,but whats the point of a it mindlessly retweeting posts ?
 
