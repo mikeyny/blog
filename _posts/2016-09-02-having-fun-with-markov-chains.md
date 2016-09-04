@@ -22,7 +22,7 @@ Horse_ebooks was named one of the best Twitter feeds by UGO Networks in 2011 and
 
 ![image](https://www.dropbox.com/s/rwiwy97xdkn7qw2/horse_3.jpg?dl=1)
 
-So immediately I set out to find out how it was done. The creator of the bot had feed a large corpus of text from an ebook website into a markov chain program which would generate random sentences and post them as tweets. Sounds simple, right ? ,but what on earth is a markov chain ? 
+So immediately I set out to find out how it was done. The creator of the bot had fed a large corpus of text from an ebook website into a markov chain program which would generate random sentences and post them as tweets. Sounds simple, right ? ,but what on earth is a markov chain ? 
 
 Well according to [Wikipedia](https://en.wikipedia.org/wiki/Markov_chain) **a markov chain is a random process that undergoes transitions from one state to another on a state space. It must possess a property that is usually characterized as "memorylessness": the probability distribution of the next state depends only on the current state and not on the sequence of events that preceded it.**
 Now unless you are an Applied Maths major , I'm pretty sure that sounds like gibberish. Thankfully I found this [Article](http://agiliq.com/blog/2009/06/generating-pseudo-random-text-with-markov-chains-u/) ,it explains the concept of markov chains in text generation beautifully.
@@ -52,13 +52,13 @@ You'll need to generate and copy your:
 
 we will need them later
 
-I already went and setup everything needed for this tutorial ,the files I available in [my github repo](https://github.com/mikeyny/_ebooks_bot) ,so head over and download the files or fork yourself a copy.
+I already went and setup everything needed for this tutorial ,the files are available in [my github repo](https://github.com/mikeyny/_ebooks_bot) ,so head over and download the files or fork yourself a copy.
 
 The repository includes 
 
 secrets.py - add your app tokens and keys here.
 
-Profile   - Required to upload our files to heroku. Defines which files we will be running on heroku.
+Profile   - Required to upload our files to heroku. It defines which files we will be running on heroku.
 
 Text - A folder containing many text sample text files to be used as our corpus ,for the tutorial I used jokes.txt which is extracted from **Jokes For All Occasions By EDWARD J. CLODE**
 You can also use your own custom text file ,a large collection can be found at [Project Gutenberg](http://www.gutenberg.org/) 
