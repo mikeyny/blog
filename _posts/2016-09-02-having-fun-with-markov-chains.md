@@ -31,6 +31,8 @@ If still not satisfied check out this video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56mGTszb_iM" frameborder="0" allowfullscreen></iframe>
 
+
+
 ### MY _EBOOKS TWITTER BOT
 
 ![twitter bot image](http://justsimplyoutsourcingworldwide.com/wp-content/uploads/2013/08/robot-icon-twitter-featured.jpg)
@@ -126,7 +128,7 @@ this command installs all of our scripts' dependencies.
 Now to run the actual script ,just open your command line and type 
     
 ```
-python markov-quotes.py
+python bot.py
 
 ```
 
@@ -142,15 +144,17 @@ Go to [Heroku]() and create an account ,then heard over to the apps section and 
 Open up your terminal and navigate to the project directory and input the following commands
 
 ```
-git init                  #creates a git repository in your current working directory
+heroku login             # login to your heroku account via the terminal
+
+git init                  # creates a git repository in your current working directory
 
 heroku git:remote -a <myappname>     # links your git repo to the heroku app
 
 git add .                 # adds all files in the folder to our git repository
 
-git commit -am "first commit"   #commits all the files added to our git repository
+git commit -am "first commit"   # commits all the files added to our git repository
 
-git push heroku master          #pushes our code to heroku
+git push heroku master          # pushes our code to heroku
 
 ```
 
