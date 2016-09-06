@@ -179,7 +179,7 @@ Here are some sample tweets from my bot [@quotes__ebooks](https://twitter.com/qu
 ![image](https://www.dropbox.com/s/2s12lej1mja9vak/quotes_2.jpg?dl=1) 
 
 
-Go on ,have fun with this bot ,feed it a corpus of your favourite celebrity's saying or tweets or punchlines from your favourite sitcom and see what it comes up with. Enjoy !!!
+Go on ,have fun with this bot ,feed it a corpus of your favourite celebrity's saying or tweets, or punchlines from your favourite sitcom and see what it comes up with. Enjoy !!!
 
 
 
