@@ -37,7 +37,7 @@ If still not satisfied check out this video.
 
 ![twitter bot image](http://justsimplyoutsourcingworldwide.com/wp-content/uploads/2013/08/robot-icon-twitter-featured.jpg)
 
-In this tutorial, I will run you through how to make your own _ebooks twitter bot in just 10 lines of code.
+In this tutorial, I will run you through how to make your own _ebooks twitter bot in just 10 lines of code and show you how to upload it to Heroku, so that it runs from the cloud.
 
 A live implementation can be found here [Quotes _Ebooks](https://twitter.com/quotes__ebooks) ,this bot uses a markov chain to generate quotes based on a corpus of quotes by famous individuals including Gandhi, Steve Jobs, Adolf Hitler, Bill Cosby to name a few.
 
@@ -60,7 +60,7 @@ The repository includes
 
 secrets.py - add your app tokens and keys here.
 
-Profile   - Required to upload our files to heroku. It defines which files we will be running on heroku.
+Procfile   - Required to upload our files to heroku. It defines which files we will be running on heroku.
 
 Text - A folder containing many text sample text files to be used as our corpus ,for the tutorial I used jokes.txt which is extracted from **Jokes For All Occasions By EDWARD J. CLODE**
 You can also use your own custom text file ,a large collection can be found at [Project Gutenberg](http://www.gutenberg.org/) 
@@ -178,6 +178,8 @@ Here are some sample tweets from my bot [@quotes__ebooks](https://twitter.com/qu
 
 ![image](https://www.dropbox.com/s/2s12lej1mja9vak/quotes_2.jpg?dl=1) 
 
+
+Go on ,have fun with this bot ,feed it a corpus of your favourite celebrity's saying or tweets or punchlines from your favourite sitcom and see what it comes up with. Enjoy !!!
 
 
 
