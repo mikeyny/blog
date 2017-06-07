@@ -27,7 +27,7 @@ We share everything articles , pictures , game play and game scores ,bible verse
 ## Implementation in Ionic 3
 
 In this tutorial I will show your how to make app which implements social sharing with Ionic 3 and Ionic native. Ionic Native is a TypeScript wrapper for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic mobile app easy.
-The app we will create(shown below ) will retrieve quotes from an [external API](http://quotesondesign.com/) and give users the ability to share the quotes they like.
+The app we will create(shown below ) will retrieve quotes from an [external API](https://quotesondesign.com/api-v4-0/) and give users the ability to share the quotes they like.
 ![image](/img/social-final.png)
 
 First lets create a new project using the ionic 3 -cli
@@ -59,7 +59,7 @@ export class AppModule {}
 
 ### NOW TO THE FUN STUFF !!!
 
-To retrieve our quotes we will be using [Quotes on Design API](http://quotesondesign.com/) ,this api returns an array of quotes objects with an ID , title (aurthor) ,content(quote) and a link. You can aslo specify the number of quotes you want.
+To retrieve our quotes we will be using [Quotes on Design API](https://quotesondesign.com/api-v4-0/) ,this api returns an array of quotes objects with an ID , title (aurthor) ,content(quote) and a link. You can aslo specify the number of quotes you want.
 Setting this up in ionic , head over to your `home.ts` file and add the following imports
 ```javascript
  // libraries for retrieving our quotes
