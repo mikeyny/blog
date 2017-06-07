@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://mikeyny.github.io"
+url: "https://michaelnyamnde.me"
 
 baseurl: ""
 
@@ -24,7 +24,7 @@ author: "Michael Nyamnde"
 title:  My Life Of Code
 description: > # this means to ignore newlines until "baseurl:"
   A Tech Blog about by a twenty something year old zimbo with dreams of making it in the world
-keywords: "zim, tech, web, python, django"
+keywords: "zim, tech, web,ionic,angular, python, django"
 favicon: "/img/favicon.ico"
 
 ################
@@ -50,7 +50,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Dare to dream but dont fall asleep while doing it -Michael Nyamande"
   - text: "Talk is cheap, Show me the code - Linus Torvalds"
   - text: "It's all talk until the code runs — Ward Cunningham"
-  
+
 me-img: "/img/jetpacktocat.png"
 
 ##############################
