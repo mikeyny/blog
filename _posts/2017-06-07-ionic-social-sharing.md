@@ -12,7 +12,7 @@ tags: [ 'ionic','javascript','angular','ionic-3','web dev' ]
 If you answered no ,you should seriously consider it.
 Social sharing is an apps integration with social media channels where the app shares information to services and feeds such as Twitter and Facebook.
  Social sharing has become a vital part of community building and brand marketing.
-It can get more people talking about your app and increase your installs without your putting in any effort. You probably even you social-sharing with noticing it ,think about have many times have you seen and clicked these buttons
+It can get more people talking about your app and increase your installs without you putting in any effort. You probably even use social-sharing with noticing it ,think about have many times have you seen and clicked these buttons
 
 ![image](/img/share.png)
 
