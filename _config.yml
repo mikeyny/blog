@@ -80,7 +80,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 post-preview-words: 30
 
-paginate: 5
+paginate: 10
 
 email-share: False
 fb-share: True
