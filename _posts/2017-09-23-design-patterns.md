@@ -37,7 +37,7 @@ A famous quotes read "Learning from your mistakes makes you smart. Learning from
 
   ![Communication Pic](https://www.dropbox.com/s/0bcunzcp8xhmvsu/nimbus-image-1506178304818.png?dl=1)
 
- ### So are you ready to learn about design pattern ?
+### So are you ready to learn about design pattern ?
 
  Here i some resources i would recommend
 
