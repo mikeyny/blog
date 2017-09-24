@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 comments: true
-title:  "Design Patterns and How to write Brilliant Code"
+title:  "DESIGN PATTERNS : THE SECRET TO WRITING BRILLIANT CODE"
 category: philosophy
 tags: [ 'design patterns','clean code','code','developer','OOP' ]
 ---
