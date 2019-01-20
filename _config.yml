@@ -1,9 +1,9 @@
 
 # Site settings
 
-url: "https://mikeyny.github.io/blog/"
+url: "https://mikeyny.github.io/"
 
-baseurl: ""
+baseurl: "blog"
 
 # Google tracking id to track your visitors
 
